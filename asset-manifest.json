@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.5f23d55f.css",
-    "main.js": "/github-page/static/js/main.f7120946.js",
-    "static/js/787.95489147.chunk.js": "/github-page/static/js/787.95489147.chunk.js",
-    "index.html": "/github-page/index.html",
-    "main.5f23d55f.css.map": "/github-page/static/css/main.5f23d55f.css.map",
-    "main.f7120946.js.map": "/github-page/static/js/main.f7120946.js.map",
-    "787.95489147.chunk.js.map": "/github-page/static/js/787.95489147.chunk.js.map"
+    "main.css": "/miniBlog/static/css/main.5f23d55f.css",
+    "main.js": "/miniBlog/static/js/main.2c5dab22.js",
+    "static/js/787.95489147.chunk.js": "/miniBlog/static/js/787.95489147.chunk.js",
+    "index.html": "/miniBlog/index.html",
+    "main.5f23d55f.css.map": "/miniBlog/static/css/main.5f23d55f.css.map",
+    "main.2c5dab22.js.map": "/miniBlog/static/js/main.2c5dab22.js.map",
+    "787.95489147.chunk.js.map": "/miniBlog/static/js/787.95489147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f23d55f.css",
-    "static/js/main.f7120946.js"
+    "static/js/main.2c5dab22.js"
   ]
 }
